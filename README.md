@@ -3,3 +3,7 @@
 <p align="center">
 I'm Peter, a self-motivated tech enthusiast, who have a passion for tech, creativity, and finding solutions.
 </p>                                     
+
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlin456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+</div>
