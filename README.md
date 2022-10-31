@@ -4,6 +4,17 @@
 I'm Peter, a self-motivated tech enthusiast, who have a passion for tech, creativity, and finding solutions.
 </p>                                     
 
+<p align="center">
+  <img src="https://github.com/peterlin456/peterlin456/blob/main/positivethinking.jpg" width="50%" height="auto">
+</p>
+
+#### 🌱 Things I am currently working on: 
+- Taking online courses about Full Stack Web Development
+- I'm currently Learning everything.
+- I'm currently working on a E-commerce web application
+
+
 #### :computer: Programming languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlin456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlin456&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
