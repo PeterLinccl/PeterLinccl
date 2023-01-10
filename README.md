@@ -10,8 +10,7 @@ I'm Peter, a self-motivated tech enthusiast, who have a passion for tech, creati
 
 #### 🌱 Things I am currently working on: 
 - I'm currently Learning everything.
-- Taking online courses about Full Stack Web Development.
-- I'm currently working on a E-commerce web application.
+
 
 
 #### :computer: Programming languages
