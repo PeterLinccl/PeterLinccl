@@ -8,6 +8,8 @@ I'm Peter, a self-motivated tech enthusiast, who have a passion for tech, creati
   <img src="https://github.com/peterlin456/peterlin456/blob/main/positivethinking.jpg" width="50%" height="auto">
 </p>
 
+I'm a self-taught passionate Software Engineer.
+
 #### 🌱 Things I am currently working on: 
 - I'm currently Learning everything.
 
