@@ -18,5 +18,5 @@ I'm Peter, a self-motivated tech enthusiast, who have a passion for tech, creati
 
 #### :computer: Programming languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlin456)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterlin)](https://github.com/anuraghazra/github-readme-stats)
 
