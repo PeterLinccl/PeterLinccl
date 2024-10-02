@@ -10,7 +10,7 @@ I'm Peter, a self-motivated tech enthusiast, who have a passion for tech, creati
 
 
 #### 🌱 Things I am currently working on: 
-- I'm currently Learning Cybersecurity and IT related tools, programming languages and frameworks.
+- I'm currently learning Cybersecurity and IT related tools, programming languages and frameworks.
 - Pursuing Splunk and AWS certifications.
 
 
