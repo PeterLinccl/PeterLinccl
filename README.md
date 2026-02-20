@@ -14,7 +14,7 @@ I'm Peter, a self-motivated tech enthusiast, who have a passion for tech, creati
 
 -Preparing for Microsoft and CompTIA certification exams to strengthen my technical foundation.
 
--Currently pursuing a Master’s degree to deepen my expertise in cybersecurity and information technology.
+-Pursuing a Master’s degree in Cybersecurity and Digital Trust to strengthen expertise in cybersecurity and enterprise IT environments.
 
 
 
